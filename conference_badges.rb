@@ -2,7 +2,7 @@
 
 def batch_badge_creator(array)
   array.collect do |speaker|
-    "Hello, my name is #{speaker}"
+    "Hello, my name is #{speaker}."
   end 
 end 
 
