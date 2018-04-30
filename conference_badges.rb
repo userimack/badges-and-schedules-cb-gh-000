@@ -20,6 +20,7 @@ def printer(array)
   new_array.each do |element|
     puts element
   end 
+
   
   new_array = assign_rooms(array)
   
