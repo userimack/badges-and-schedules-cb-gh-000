@@ -1,5 +1,7 @@
 # Write your code here.
 
+def badge_maker(name)
+end
 def batch_badge_creator(array)
   array.collect do |speaker|
     "Hello, my name is #{speaker}."
